@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e788a263647bab00","type":"file","file":"MindView/ME524 AI in Mechanical Engineering.md","x":-940,"y":-280,"width":491,"height":67,"color":"1"},
+		{"id":"d889941d76054745","type":"text","text":"Doing assignments","x":-619,"y":-80,"width":250,"height":50},
+		{"id":"a337b5f457932ce4","type":"text","text":"Making a professional course notes","x":-619,"y":-140,"width":299,"height":50}
+	],
+	"edges":[
+		{"id":"0f720fba1c5fcb88","fromNode":"e788a263647bab00","fromSide":"bottom","toNode":"a337b5f457932ce4","toSide":"left"},
+		{"id":"c247ab927acb29fa","fromNode":"e788a263647bab00","fromSide":"bottom","toNode":"d889941d76054745","toSide":"left"}
+	]
+}
