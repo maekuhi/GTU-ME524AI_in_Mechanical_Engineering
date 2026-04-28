@@ -2,19 +2,15 @@
 ## W1: Introduction
 ___
 
-![[1.png]]
-
+![eq](./images/1.png)
 Answer: 1
 ___
 
-![[Pasted image 20260427161253.png]]
-
+![eq](./images/2.png)
 Answer: 3
 ___
 
-![[Pasted image 20260427170359.png]]
-
+![eq](./images/3.png)
 Answer: 2 & 3
 ___
 
-kkk
