@@ -2,7 +2,7 @@
 ## W1: Introduction
 ___
 
-![[Pasted image 20260427161039.png]]
+![[1.png]]
 
 Answer: 1
 ___
